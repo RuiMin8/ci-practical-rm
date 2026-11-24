@@ -1,6 +1,6 @@
 # CI Practical — RM
 
-Student initials: 
+Student initials: RM
 
 This repository demonstrates automated testing with GitHub Actions.
 
